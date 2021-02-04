@@ -1,0 +1,7 @@
+C:\Users\inakama\source\3gis\Debugging\Solution\bin\Debug\Solution.exe.config
+C:\Users\inakama\source\3gis\Debugging\Solution\bin\Debug\Solution.exe
+C:\Users\inakama\source\3gis\Debugging\Solution\bin\Debug\Solution.pdb
+C:\Users\inakama\source\3gis\Debugging\Solution\obj\Debug\Solution.csprojAssemblyReference.cache
+C:\Users\inakama\source\3gis\Debugging\Solution\obj\Debug\Solution.csproj.CoreCompileInputs.cache
+C:\Users\inakama\source\3gis\Debugging\Solution\obj\Debug\Solution.exe
+C:\Users\inakama\source\3gis\Debugging\Solution\obj\Debug\Solution.pdb

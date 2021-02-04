@@ -42,7 +42,7 @@ namespace Solution.Services
             var allTransitions = TransitionRepo.GetAll();
 
             // Initial Transitions are defined as those with a null FromStatus value from config
-            var initialTransitions = allTransitions.Where(t => t.FromStatus == null);
+            var initialTransitions = allTransitions.Where(t => t.FromStatus == null && t.Subtype == subtype);
 
             // Select all the ToStatus values from the initialTransitioned queried
             return initialTransitions.Select(t => t.ToStatus);
